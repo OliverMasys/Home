@@ -1,4 +1,4 @@
-/* Reset some default styling */
+/* Styling */
 * {
     margin: 0;
     padding: 0;
@@ -25,6 +25,13 @@ header h1 {
 }
 
 .about-me {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.Skills {
     background-color: #fff;
     padding: 20px;
     margin-top: 20px;
